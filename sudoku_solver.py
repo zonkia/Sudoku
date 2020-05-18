@@ -1,4 +1,4 @@
-from sudoku import *
+from sudoku_board_calculation import *
 
 if __name__ == "__main__":
 
