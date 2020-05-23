@@ -1,5 +1,5 @@
 # Sudoku
-Sudoku game (pygame) including backtrackig solutions for board solving and board creating.
+Sudoku game (pygame) including backtracking solutions for board solving and board creating.
 
 To run the game use main.py
 
